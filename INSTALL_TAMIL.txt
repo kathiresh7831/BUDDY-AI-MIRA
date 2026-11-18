@@ -1,0 +1,11 @@
+BUDDY AI (MIRA) — HONOR Pad 10
+
+1. இந்த project-ஐ GitHub BUDDY repository-க்கு upload செய்யவும்.
+2. GitHub Actions > Build BUDDY AI MIRA APK > Run workflow-ஐ அழுத்தவும்.
+3. Workflow வெற்றிகரமாக முடிந்ததும் Artifacts-ல் APK ZIP-ஐ download செய்யவும்.
+4. ZIP extract செய்து app-debug.apk கோப்பை HONOR Pad 10-க்கு மாற்றவும்.
+5. Files-ல் APK-ஐ திறந்து Install செய்யவும். தேவையான அனுமதியை அளிக்கவும்.
+6. BUDDY AI - MIRA-ஐ திறந்து English அல்லது தமிழ் தேர்வு செய்து Talk-ஐ அழுத்தவும்.
+7. ஆன்லைன் AI விருப்பமானது. AI key-ல் உங்கள் தனி OpenAI API key-ஐ பாதுகாப்பாக உள்ளிடலாம்.
+
+குறிப்பு: இது எப்போதும் microphone கேட்கும் (always-on) பயன்பாடு அல்ல. திரை lock நிலையில் wake word இல்லை.
